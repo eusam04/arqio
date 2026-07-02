@@ -1,0 +1,15 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente
+.env
+
+# Dependências
+node_modules/
+
+# Build
+dist/
+
+# Logs
+*.log
