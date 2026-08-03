@@ -1,7 +1,10 @@
-Arqio
+# Arqio
 
-Construa melhor. Gerencie com inteligência.
-Sobre o Arqio
+> **Construa melhor. Gerencie com inteligência.**
+
+---
+
+## Sobre o Arqio
 
 O Arqio é uma plataforma SaaS desenvolvida para conectar escritórios de arquitetura, engenharia, equipes de obra e clientes em um único ambiente digital.
 
@@ -9,112 +12,134 @@ A plataforma centraliza projetos, documentos técnicos, comunicação e acompanh
 
 O principal objetivo é reduzir falhas de comunicação, facilitar o acesso aos documentos corretos e melhorar a gestão das obras do início ao fim.
 
-O problema
+---
+
+## O Problema
 
 Hoje muitos escritórios utilizam uma combinação de ferramentas como:
 
-WhatsApp
-Google Drive
-E-mail
-PDFs enviados individualmente
-Pastas físicas
+- WhatsApp;
+- Google Drive;
+- E-mail;
+- PDFs enviados individualmente;
+- Pastas físicas.
 
 Isso gera problemas como:
 
-utilização de plantas desatualizadas;
-documentos espalhados;
-dificuldade para localizar informações;
-excesso de mensagens no WhatsApp;
-falta de organização entre os profissionais da obra.
-A solução
+- Utilização de plantas desatualizadas;
+- Documentos espalhados;
+- Dificuldade para localizar informações;
+- Excesso de mensagens no WhatsApp;
+- Falta de organização entre os profissionais da obra.
+
+---
+
+## A Solução
 
 O Arqio reúne todas essas informações em uma única plataforma.
 
 Cada projeto possui seu próprio ambiente contendo:
 
-documentos;
-equipe;
-comentários;
-fotos;
-inteligência artificial;
-histórico;
-permissões de acesso.
-Público-alvo
+- Documentos;
+- Equipe;
+- Comentários;
+- Fotos;
+- Inteligência artificial;
+- Histórico;
+- Permissões de acesso.
+
+---
+
+## Público-Alvo
 
 O Arqio foi pensado para atender:
 
-Escritórios de Arquitetura
-Arquitetos autônomos
-Escritórios de Engenharia
-Construtoras
-Empresas de gerenciamento de obras
-Usuários
+- Escritórios de arquitetura;
+- Arquitetos autônomos;
+- Escritórios de engenharia;
+- Construtoras;
+- Empresas de gerenciamento de obras.
 
-Dentro da plataforma existirão diferentes perfis.
+---
 
-Administrador
-Arquiteto
-Engenheiro
-Mestre de Obras
-Colaborador
-Cliente
+## Usuários
+
+Dentro da plataforma existirão diferentes perfis:
+
+- Administrador;
+- Arquiteto;
+- Engenheiro;
+- Mestre de Obras;
+- Colaborador;
+- Cliente.
 
 Cada perfil terá permissões específicas.
 
-Missão
+---
+
+## Missão
 
 Facilitar a gestão de projetos e obras através da tecnologia, promovendo organização, colaboração e segurança na execução dos projetos.
 
-Visão
+---
+
+## Visão
 
 Ser uma das principais plataformas brasileiras para gestão colaborativa de obras e projetos arquitetônicos.
 
-Valores
+---
 
-Simplicidade
-Organização
-Colaboração
-Segurança
-Inovação
-Transparência
-Evolução contínua
+## Valores
 
-Diferenciais
+- Simplicidade;
+- Organização;
+- Colaboração;
+- Segurança;
+- Inovação;
+- Transparência;
+- Evolução contínua.
 
-Plataforma em nuvem.
-Multiempresa.
-Controle de permissões.
-Organização por projetos.
-Inteligência Artificial integrada.
-Progressive Web App (PWA).
-Personalização da identidade visual dos escritórios.
-Interface moderna e intuitiva.
+---
 
-Tecnologias
+## Diferenciais
 
-Frontend
-React
-TypeScript
-Vite
+- Plataforma em nuvem;
+- Multiempresa;
+- Controle de permissões;
+- Organização por projetos;
+- Inteligência Artificial integrada;
+- Progressive Web App (PWA);
+- Personalização da identidade visual dos escritórios;
+- Interface moderna e intuitiva.
 
-Backend
+---
 
-Node.js
-Express
-TypeScript
+## Tecnologias
 
-Banco de Dados
+### Frontend
 
-MongoDB
-Mongoose
+- React;
+- TypeScript;
+- Vite.
 
-Autenticação
+### Backend
 
-JWT
-Bcrypt
+- Node.js;
+- Express;
+- TypeScript.
 
-Hospedagem
+### Banco de Dados
 
-Frontend: Vercel (inicialmente)
-Backend: Railway ou Render
-Banco: MongoDB Atlas
+- MongoDB;
+- Mongoose.
+
+### Autenticação
+
+- JWT;
+- Bcrypt.
+
+### Hospedagem
+
+- **Frontend:** Vercel (inicialmente);
+- **Backend:** Railway ou Render;
+- **Banco de Dados:** MongoDB Atlas.
