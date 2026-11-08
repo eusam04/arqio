@@ -4,6 +4,8 @@ Thumbs.db
 
 # Variáveis de ambiente
 .env
+.env.*
+!.env.example
 
 # Dependências
 node_modules/
